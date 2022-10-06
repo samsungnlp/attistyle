@@ -1,2 +1,2 @@
-# attistyle
-Style and attitude transfer
+# Attistyle
+Style and attitude transfer repository
